@@ -1,39 +1,49 @@
-# 👋 Hi, I'm Mubarak Mohamed Ahmed
+<div align="center">
 
-💻 Web & Application Developer  
-🖥 System Builder | C# & SQL  
-🌐 Building modern websites, desktop apps & digital systems  
+# 👋 Hi, I'm Mubarak Mohamed Ahmed
+### 💻 Web & Application Developer | 🖥 System Builder | 🌐 Digital Solution Architect
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com)](https://git.io)
 
 ---
 
 ## 🚀 About Me
-- 🔹 Passionate about developing scalable web and software solutions  
-- 🔹 Focused on clean UI, performance, and usability  
-- 🔹 Experience in building management systems & business tools  
-- 🔹 5+ years teaching ICT & technology  
+I am a passionate developer from **Hargeisa, Somaliland**, dedicated to building scalable web and software solutions. 
+With over **5 years of teaching ICT**, I focus on clean UI, performance, and usability.
+
+</div>
+
+### 🛠 Tech Stack
+
+| Category | Tools |
+| :--- | :--- |
+| **Backend** | ![C#](https://img.shields.io) ![.NET](https://img.shields.io) |
+| **Database** | ![SQL Server](https://img.shields.io) |
+| **Frontend** | ![HTML](https://img.shields.io) ![CSS](https://img.shields.io) ![JS](https://img.shields.io) |
 
 ---
 
-## 🛠 Tech Stack
-
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app" height="170" />
+  <img src="https://github-readme-stats.vercel.app" height="170" />
+</div>
 
 ---
 
-## 📌 Featured Projects
-- 🏪 Shop Management System (C# + SQL Server)  
-- 🌐 Business Website Development  
-- 📊 Student & Database Systems  
-- 🎨 UI/UX & Branding Projects  
+### 📌 Featured Projects
+*   **🏪 Shop Management System** – High-performance C# + SQL Server desktop application.
+*   **🌐 Business Web Solutions** – Modern, responsive websites for local enterprises.
+*   **📊 Student Databases** – Scalable data management systems for educational institutions.
 
 ---
 
-## 📫 Contact
-📍 Hargeisa, Somaliland  
-📧 maarigquraysh0@gmail.com  
-📞 +252 63 488 50 73  
+### 📫 Connect With Me
+*   📍 **Location:** Hargeisa, Somaliland
+*   📧 **Email:** [maarigquraysh0@gmail.com](mailto:maarigquraysh0@gmail.com)
+*   📞 **WhatsApp:** [+252 63 488 50 73](https://wa.me)
+
+---
+<div align="center">
+  <img src="https://komarev.com" alt="Views" />
+</div>
