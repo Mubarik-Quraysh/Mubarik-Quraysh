@@ -1,60 +1,53 @@
-# 👋 Hi, I'm Mubarak Mohamed Ahmed
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com" alt="Typing SVG" />
-</p>
+<div align="center">
+
+# <marquee width="60%" behavior="alternate" scrollamount="3">👋 Hi, I'm Mubarak Mohamed Ahmed</marquee>
+
+### 💻 Web & Application Developer | 🖥 System Builder | 🌐 Digital Solution Architect
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com)
 
 ---
 
-### 🚀 Quick Summary
-I specialize in building robust digital systems that bridge the gap between complex data and user-friendly interfaces. With **5+ years in ICT education**, I don't just write code—I build solutions that last.
+## 🛡️ Tech Arsenal
 
----
 
-### 🛠 Tech Stack & Skills
-
-| **Category** | **Technologies** |
+| 💻 Programming & Frameworks | 🗄️ Databases & Systems |
 | :--- | :--- |
-| **Development** | ![C#](https://img.shields.io) ![.NET](https://img.shields.io) ![JS](https://img.shields.io) |
-| **Data & Systems** | ![SQL Server](https://img.shields.io) ![Architecture](https://img.shields.io) |
-| **Web Design** | ![HTML5](https://img.shields.io) ![CSS3](https://img.shields.io) |
+| ![C#](https://img.shields.io) ![.NET](https://img.shields.io) ![JS](https://img.shields.io) | ![SQL Server](https://img.shields.io) ![Architecture](https://img.shields.io) |
 
 ---
 
-### 📊 Real-Time GitHub Activity
+## 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app" width="48%" />
-  <img src="https://github-readme-stats.vercel.app" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com" width="94%" />
+<img src="https://github-readme-stats.vercel.app" alt="Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com" alt="Streak" width="48%" />
 </p>
 
 ---
 
-### 📌 Featured Specialized Projects
+## 🎯 Current Focus
 
-| Project Name | Description | Tech Used |
+| 🛠️ Working On | 📚 Learning | 🚀 Goals 2024 |
 | :--- | :--- | :--- |
-| **🏪 Enterprise ERP** | A full-scale shop management system with inventory tracking & real-time analytics. | `C#`, `.NET`, `SQL Server` |
-| **🌐 Digital Identity** | Modern business website focused on branding and user conversion. | `HTML5`, `CSS`, `JS` |
-| **📊 EduTrack System** | A custom database solution for managing student performance and staff records. | `SQL Server`, `C#` |
+| Advanced ERP Systems | Cloud Architecture | Launch 3 Major Projects |
+| UI/UX Optimization | ASP.NET Core | Contribute to Open Source |
 
 ---
 
-### 💡 Future Projects & Ideas
-*   **[ ] Somaliland Tech Directory:** A portal for local developers to showcase talent.
-*   **[ ] AI-Driven Inventory:** Integrating basic ML into the Shop Management System.
-*   **[ ] Open Source ICT Guide:** A repository of free ICT learning materials in Somali.
+## 📌 Featured Specialized Projects
+
+
+| Project Name | Description | Role |
+| :--- | :--- | :--- |
+| **🏪 Shop Management** | Full-scale inventory & billing system | Lead Developer |
+| **🌐 Business Portals** | Modern responsive web solutions | Full Stack |
+| **📊 EduTrack** | Student & staff database management | System Architect |
 
 ---
 
-### 📫 Reach Out
-<p align="left">
-<a href="mailto:maarigquraysh0@gmail.com"><img src="https://img.shields.io" /></a>
-<a href="https://wa.me"><img src="https://img.shields.io" /></a>
-</p>
+## 📫 Let's Build Something Together!
+**Email:** [maarigquraysh0@gmail.com](mailto:maarigquraysh0@gmail.com) | **WhatsApp:** [+252 63 488 50 73](https://wa.me)
 
-<p align="center">
 <img src="https://capsule-render.vercel.app" width="100%" />
-</p>
+
+</div>
