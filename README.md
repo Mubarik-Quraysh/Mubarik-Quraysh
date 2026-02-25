@@ -1,9 +1,11 @@
 <div align="center">
 
-# <marquee width="60%" behavior="alternate" scrollamount="3">👋 Hi, I'm Mubarak Mohamed Ahmed</marquee>
+<!-- ANIMATED NAME: Alternates left to right -->
+# <marquee width="60%" behavior="alternate" scrollamount="4">👋 Hi, I'm Mubarak Mohamed Ahmed</marquee>
 
 ### 💻 Web & Application Developer | 🖥 System Builder | 🌐 Digital Solution Architect
 
+<!-- FIXED TYPING SVG: Ensure 'YOUR_GITHUB_USERNAME' is replaced -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com)
 
 ---
@@ -18,19 +20,11 @@
 ---
 
 ## 📈 GitHub Analytics
+<!-- FIXED STATS: Replace YOUR_GITHUB_USERNAME below -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app" alt="Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com" alt="Streak" width="48%" />
 </p>
-
----
-
-## 🎯 Current Focus
-
-| 🛠️ Working On | 📚 Learning | 🚀 Goals 2024 |
-| :--- | :--- | :--- |
-| Advanced ERP Systems | Cloud Architecture | Launch 3 Major Projects |
-| UI/UX Optimization | ASP.NET Core | Contribute to Open Source |
 
 ---
 
@@ -39,9 +33,9 @@
 
 | Project Name | Description | Role |
 | :--- | :--- | :--- |
-| **🏪 Shop Management** | Full-scale inventory & billing system | Lead Developer |
-| **🌐 Business Portals** | Modern responsive web solutions | Full Stack |
-| **📊 EduTrack** | Student & staff database management | System Architect |
+| **🏪 Shop Management** | Full-scale inventory & billing system (C# + SQL) | Lead Developer |
+| **📊 EduTrack** | Student & staff database management system | System Architect |
+| **🌐 Business Portals** | Modern responsive web solutions for enterprises | Full Stack |
 
 ---
 
