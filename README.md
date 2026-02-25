@@ -1,49 +1,60 @@
-<div align="center">
-
 # 👋 Hi, I'm Mubarak Mohamed Ahmed
-### 💻 Web & Application Developer | 🖥 System Builder | 🌐 Digital Solution Architect
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com)](https://git.io)
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
-I am a passionate developer from **Hargeisa, Somaliland**, dedicated to building scalable web and software solutions. 
-With over **5 years of teaching ICT**, I focus on clean UI, performance, and usability.
+### 🚀 Quick Summary
+I specialize in building robust digital systems that bridge the gap between complex data and user-friendly interfaces. With **5+ years in ICT education**, I don't just write code—I build solutions that last.
 
-</div>
+---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Skills
 
-| Category | Tools |
+| **Category** | **Technologies** |
 | :--- | :--- |
-| **Backend** | ![C#](https://img.shields.io) ![.NET](https://img.shields.io) |
-| **Database** | ![SQL Server](https://img.shields.io) |
-| **Frontend** | ![HTML](https://img.shields.io) ![CSS](https://img.shields.io) ![JS](https://img.shields.io) |
+| **Development** | ![C#](https://img.shields.io) ![.NET](https://img.shields.io) ![JS](https://img.shields.io) |
+| **Data & Systems** | ![SQL Server](https://img.shields.io) ![Architecture](https://img.shields.io) |
+| **Web Design** | ![HTML5](https://img.shields.io) ![CSS3](https://img.shields.io) |
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app" height="170" />
-  <img src="https://github-readme-stats.vercel.app" height="170" />
-</div>
+### 📊 Real-Time GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" width="48%" />
+  <img src="https://github-readme-stats.vercel.app" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com" width="94%" />
+</p>
 
 ---
 
-### 📌 Featured Projects
-*   **🏪 Shop Management System** – High-performance C# + SQL Server desktop application.
-*   **🌐 Business Web Solutions** – Modern, responsive websites for local enterprises.
-*   **📊 Student Databases** – Scalable data management systems for educational institutions.
+### 📌 Featured Specialized Projects
+
+| Project Name | Description | Tech Used |
+| :--- | :--- | :--- |
+| **🏪 Enterprise ERP** | A full-scale shop management system with inventory tracking & real-time analytics. | `C#`, `.NET`, `SQL Server` |
+| **🌐 Digital Identity** | Modern business website focused on branding and user conversion. | `HTML5`, `CSS`, `JS` |
+| **📊 EduTrack System** | A custom database solution for managing student performance and staff records. | `SQL Server`, `C#` |
 
 ---
 
-### 📫 Connect With Me
-*   📍 **Location:** Hargeisa, Somaliland
-*   📧 **Email:** [maarigquraysh0@gmail.com](mailto:maarigquraysh0@gmail.com)
-*   📞 **WhatsApp:** [+252 63 488 50 73](https://wa.me)
+### 💡 Future Projects & Ideas
+*   **[ ] Somaliland Tech Directory:** A portal for local developers to showcase talent.
+*   **[ ] AI-Driven Inventory:** Integrating basic ML into the Shop Management System.
+*   **[ ] Open Source ICT Guide:** A repository of free ICT learning materials in Somali.
 
 ---
-<div align="center">
-  <img src="https://komarev.com" alt="Views" />
-</div>
+
+### 📫 Reach Out
+<p align="left">
+<a href="mailto:maarigquraysh0@gmail.com"><img src="https://img.shields.io" /></a>
+<a href="https://wa.me"><img src="https://img.shields.io" /></a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app" width="100%" />
+</p>
